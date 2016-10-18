@@ -1,5 +1,6 @@
-library(RSQLite) 
-
+ library(RSQLite) 
+# So be it, heart: Bid farewell without end
+############################
 conn <- dbConnect(SQLite(), dbname='/Users/alison/Desktop/survey.sqlite')
 
 tables <- dbListTables(conn)
