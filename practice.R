@@ -1,4 +1,5 @@
  library(RSQLite) 
+# So every flower fades in its day
 # So be it, heart: Bid farewell without end
 # Adding a second line to commit a second time
 # Goals for semester: publish first dissy chapter
