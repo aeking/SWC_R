@@ -1,6 +1,7 @@
  library(RSQLite) 
 # So be it, heart: Bid farewell without end
 # Adding a second line to commit a second time
+# Goals for semester: publish first dissy chapter
 ############################
 conn <- dbConnect(SQLite(), dbname='/Users/alison/Desktop/survey.sqlite')
 
